@@ -30,3 +30,10 @@
 	background: lightgray;
 }
 
+.sidebarRow.selected > .sidebarRow__icon{
+	color: red;
+}
+
+.sidebarRow.sidebarRow.selected > .sidebarRow_title {
+	font-weight: bold;
+}

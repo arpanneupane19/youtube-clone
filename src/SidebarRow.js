@@ -3,8 +3,8 @@ import './SidebarRow.css'
 
 function SidebarRow({ Icon, title, selected }) {
 	return (
-		<div className='sidebarRow'>
-			<Icon className={`sidebarRow__icon ${selected &&  "selected"}`}/>
+		<div className={`sidebarRow ${selected && "selected"}`}>
+			<Icon className="sidebarRow__icon"/>
 			<h2 className='sidebarRow__title' >{ title }</h2>
 		</div>
 	)
