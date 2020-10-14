@@ -34,9 +34,15 @@ function RecommendedVideos() {
 				timestamp='1 week ago'
 				channelImage="/me.jpg"
 				channel='Arpan Neupane'
-				image='youtubereact.png'/>
-				<VideoCard/>
-				<VideoCard/>
+				image='/youtubereact.png'/>
+				<VideoCard
+				className='recommended_video'
+				title='MKBHD Setup Tour 2020'
+				views='16.4M views'
+				timestamp='3 weeks ago'
+				channelImage="/mkbhdprof.jpg"
+				channel='Marques Brownlee'
+				image='/mkbhd.jpg'/>
 
 			</div>
 		

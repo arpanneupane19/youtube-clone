@@ -29,7 +29,7 @@ function Header() {
 				<VideoCallIcon className='header__icon'/>
 				<AppsIcon className='header__icon'/>
 				<NotificationsIcon className='header__icon'/>
-				<Avatar className='header__icon'/>
+				<Avatar alt='Arpan Neupane'src='/me.jpg'className='header__icon'/>
 			</div>
 
 		</div>

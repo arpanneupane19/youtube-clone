@@ -54,3 +54,72 @@
 
 }
 
+@media screen and (max-width: 550px) {
+	.header__logo {
+		display: none;
+	}
+
+	.header__input > input {
+		width: 100px;
+	}
+
+	.header__inputButton {
+		width: 25px;
+
+	}
+
+}
+
+@media screen and (max-width: 437px) {
+
+	.header {
+		width: 125%;
+	}
+	.header__logo {
+		display: none;
+	}
+
+	.header__input > input {
+		width: 100px;
+	}
+
+	.header__inputButton {
+		width: 25px;
+
+	}
+	
+	.header__icons {
+		display: none;
+	}
+
+
+
+
+}
+
+@media screen and (max-width: 351px) {
+
+	.header {
+		width: 150%;
+	}
+	.header__logo {
+		display: none;
+	}
+
+	.header__input > input {
+		width: 100px;
+	}
+
+	.header__inputButton {
+		width: 25px;
+
+	}
+	
+	.header__icons {
+		display: none;
+	}
+
+
+
+
+}
