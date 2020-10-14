@@ -18,4 +18,5 @@ body {
 .recommended__videos {
 	display: flex;
 	flex-wrap: wrap;
+
 }

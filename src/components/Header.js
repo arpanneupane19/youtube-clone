@@ -10,6 +10,7 @@ import {Link} from 'react-router-dom';
 
 function Header() {
 	const [inputSearch, setInputSearch] = useState('');
+
 	return (
 		<div className='header'>
 

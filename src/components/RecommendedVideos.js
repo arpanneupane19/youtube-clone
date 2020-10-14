@@ -44,7 +44,7 @@ function RecommendedVideos() {
 				channel='Marques Brownlee'
 				image='/mkbhd.jpg'/>
 
-<VideoCard
+				<VideoCard
 				className='recommended_video'
 				title='Become a React.js developer in 2020'
 				views='1.3M views'

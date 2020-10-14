@@ -1,3 +1,10 @@
+### YouTube Clone Using React.js
+
+This is a YouTube clone (frontend) using the React framework.
+I used this tutorial for the header and sidebar: https://www.youtube.com/watch?v=NT299zIk2JY&t=10099s
+Created everything else in my own.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

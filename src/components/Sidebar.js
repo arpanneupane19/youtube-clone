@@ -25,7 +25,7 @@ function Sidebar() {
 			<hr />
 			<p
 			className='sidebar__subscription'
-			>Subscriptions</p>
+			>SUBSCRIPTIONS</p>
 			 
 		</div>
 	)
