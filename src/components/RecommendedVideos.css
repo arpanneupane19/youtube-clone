@@ -1,6 +1,9 @@
+body {
+	background-color: #f9f9f9;
+}
+
 .recommended {
 	flex: 0.8;
-	background: #f9f9f9;
 	padding: 40px 30px;
 	padding-bottom: 0;
 }

@@ -26,6 +26,7 @@ function Sidebar() {
 			<p
 			className='sidebar__subscription'
 			>Subscriptions</p>
+			 
 		</div>
 	)
 }
